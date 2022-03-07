@@ -14,4 +14,6 @@ Functions;
 2) You can change your task status(if it complete it will seen green else default.)
 3) You can edit your task with double click.
 4) You can remove your task.
-![image](https://user-images.githubusercontent.com/56863545/157068791-4bac613d-e228-4663-9d8b-d5db62782d6b.png)
+
+![image](https://user-images.githubusercontent.com/56863545/157068929-77d5c3e5-9bb9-45dd-ba71-64ce7cfb0277.png)
+
