@@ -1,9 +1,12 @@
 # Todolist
 A Todo list app.
+
 For the running front-end side;
   -> In the app folder, type "npm start" from the console.
+  
 For the running back-end side;
   -> In the backend folder, type "node index" from the console.
+  
 You can use the app at http://localhost:3000/.
 
 Functions;
